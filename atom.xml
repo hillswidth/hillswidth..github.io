@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hillswidth.github.io/</id>
+    <id>https://mii2.github.io/</id>
     <title>𝗜 𝗦𝗘𝗘 𝗠𝗜𝗜𝟮</title>
-    <updated>2020-08-24T17:23:48.976Z</updated>
+    <updated>2020-08-24T17:28:44.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hillswidth.github.io/"/>
-    <link rel="self" href="https://hillswidth.github.io/atom.xml"/>
+    <link rel="alternate" href="https://mii2.github.io/"/>
+    <link rel="self" href="https://mii2.github.io/atom.xml"/>
     <subtitle>TAKE NOTES WITH ME
 for JIMMY x TOMMY</subtitle>
-    <logo>https://hillswidth.github.io/images/avatar.png</logo>
-    <icon>https://hillswidth.github.io/favicon.ico</icon>
+    <logo>https://mii2.github.io/images/avatar.png</logo>
+    <icon>https://mii2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 𝗜 𝗦𝗘𝗘 𝗠𝗜𝗜𝟮</rights>
     <entry>
         <title type="html"><![CDATA[#Eua De Space NASA 太空香水]]></title>
-        <id>https://hillswidth.github.io/post/smellouterspace/</id>
-        <link href="https://hillswidth.github.io/post/smellouterspace/">
+        <id>https://mii2.github.io/post/smellouterspace/</id>
+        <link href="https://mii2.github.io/post/smellouterspace/">
         </link>
         <updated>2020-07-09T04:36:22.000Z</updated>
     </entry>
