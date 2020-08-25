@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hillswidth.github.io/mii2.github.io/</id>
     <title>ᴵ ˢᴱᴱ ᴹᴵᴵ²</title>
-    <updated>2020-08-25T00:57:47.367Z</updated>
+    <updated>2020-08-25T14:06:47.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hillswidth.github.io/mii2.github.io/"/>
     <link rel="self" href="https://hillswidth.github.io/mii2.github.io/atom.xml"/>
     <logo>https://hillswidth.github.io/mii2.github.io/images/avatar.png</logo>
     <icon>https://hillswidth.github.io/mii2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ᴵ ˢᴱᴱ ᴹᴵᴵ²</rights>
+    <entry>
+        <title type="html"><![CDATA[⁰⁸²⁰ ᴮᴵᴳᴼ ᴸᴵⱽᴱ | Compilation editing ]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/0820/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/0820/">
+        </link>
+        <updated>2020-08-19T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ ⁰⁸²³ᴵᴺᴰᴱˣ | MII2 the series of YBoook Fair 14 Q&A]]></title>
         <id>https://hillswidth.github.io/mii2.github.io/post/YBOOKFAIR/</id>
