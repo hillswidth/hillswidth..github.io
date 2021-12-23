@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hillswidth.github.io/mii2.github.io/</id>
     <title>ᴵ ˢᴱᴱ ᴹᴵᴵ²</title>
-    <updated>2021-12-23T16:32:10.760Z</updated>
+    <updated>2021-12-23T16:36:10.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hillswidth.github.io/mii2.github.io/"/>
     <link rel="self" href="https://hillswidth.github.io/mii2.github.io/atom.xml"/>
@@ -10,17 +10,10 @@
     <icon>https://hillswidth.github.io/mii2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ᴵ ˢᴱᴱ ᴹᴵᴵ²</rights>
     <entry>
-        <title type="html"><![CDATA[ˢᵃᵐʸᵁ | samyu觀察日記]]></title>
-        <id>https://hillswidth.github.io/mii2.github.io/post/k-ns-sy/</id>
-        <link href="https://hillswidth.github.io/mii2.github.io/post/k-ns-sy/">
+        <title type="html"><![CDATA[working hard on forwarding life]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/working-hard-on-forwarding-life/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/working-hard-on-forwarding-life/">
         </link>
-        <updated>2021-04-13T22:01:32.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[* ȶɦɨֆ ɨֆ ǟ ɖɨǟʀʏ]]></title>
-        <id>https://hillswidth.github.io/mii2.github.io/post/about/</id>
-        <link href="https://hillswidth.github.io/mii2.github.io/post/about/">
-        </link>
-        <updated>2020-08-13T06:09:48.000Z</updated>
+        <updated>2021-12-23T03:34:02.000Z</updated>
     </entry>
 </feed>
