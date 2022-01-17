@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hillswidth.github.io/mii2.github.io/</id>
     <title>ᴵ ˢᴱᴱ ᴹᴵᴵ²</title>
-    <updated>2022-01-04T18:29:10.017Z</updated>
+    <updated>2022-01-17T18:23:33.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hillswidth.github.io/mii2.github.io/"/>
     <link rel="self" href="https://hillswidth.github.io/mii2.github.io/atom.xml"/>
@@ -10,17 +10,73 @@
     <icon>https://hillswidth.github.io/mii2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, ᴵ ˢᴱᴱ ᴹᴵᴵ²</rights>
     <entry>
-        <title type="html"><![CDATA[Final Test Study]]></title>
-        <id>https://hillswidth.github.io/mii2.github.io/post/final-test-study/</id>
-        <link href="https://hillswidth.github.io/mii2.github.io/post/final-test-study/">
+        <title type="html"><![CDATA[Speaking in the scene]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/speaking-in-the-scene/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/speaking-in-the-scene/">
         </link>
-        <updated>2021-12-26T10:31:59.000Z</updated>
+        <updated>2022-01-15T07:23:13.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[working hard on forwarding life]]></title>
-        <id>https://hillswidth.github.io/mii2.github.io/post/working-hard-on-forwarding-life/</id>
-        <link href="https://hillswidth.github.io/mii2.github.io/post/working-hard-on-forwarding-life/">
+        <title type="html"><![CDATA[SPEAKING in Dermatology/Audiology/Mental healh]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/speaking-in-dermatologyaudiologymental-healh/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/speaking-in-dermatologyaudiologymental-healh/">
         </link>
-        <updated>2021-12-23T03:34:02.000Z</updated>
+        <updated>2022-01-15T06:33:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEAKING in Male& Female Reproductive]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/speaking-in-maleand-female-reproductive/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/speaking-in-maleand-female-reproductive/">
+        </link>
+        <updated>2022-01-15T04:42:45.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEAKING of the Nervous Sys.]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/speaking-of-the-nervous-sys/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/speaking-of-the-nervous-sys/">
+        </link>
+        <updated>2022-01-14T06:13:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEAKING with Respiratory Sys.]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/speaking-with-respiratory-sys/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/speaking-with-respiratory-sys/">
+        </link>
+        <updated>2022-01-13T10:51:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEAKING in Endocrine Sys.]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/speaking-in-endocrine-sys/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/speaking-in-endocrine-sys/">
+        </link>
+        <updated>2022-01-12T09:32:03.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEAKING in Lymphatic Sys.]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/speaking-in-lymphatic-sys/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/speaking-in-lymphatic-sys/">
+        </link>
+        <updated>2022-01-12T08:24:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEAKING in Digestive Sys.]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/speaking-in-digestive-sys/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/speaking-in-digestive-sys/">
+        </link>
+        <updated>2022-01-12T07:03:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEAKING in Urinary Sys.]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/speaking-in-urinary-sys/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/speaking-in-urinary-sys/">
+        </link>
+        <updated>2022-01-12T06:57:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEAKING in Cardiovascular sys.]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/Hematology/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/Hematology/">
+        </link>
+        <updated>2022-01-10T18:44:17.000Z</updated>
     </entry>
 </feed>
