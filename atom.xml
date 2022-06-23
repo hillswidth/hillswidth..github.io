@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hillswidth.github.io/mii2.github.io/</id>
     <title>ᴵ ˢᴱᴱ ᴹᴵᴵ²</title>
-    <updated>2022-01-17T18:23:33.269Z</updated>
+    <updated>2022-06-23T21:42:05.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hillswidth.github.io/mii2.github.io/"/>
     <link rel="self" href="https://hillswidth.github.io/mii2.github.io/atom.xml"/>
     <logo>https://hillswidth.github.io/mii2.github.io/images/avatar.png</logo>
     <icon>https://hillswidth.github.io/mii2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, ᴵ ˢᴱᴱ ᴹᴵᴵ²</rights>
+    <entry>
+        <title type="html"><![CDATA[AAK Menu Draft]]></title>
+        <id>https://hillswidth.github.io/mii2.github.io/post/aak-menu-draft/</id>
+        <link href="https://hillswidth.github.io/mii2.github.io/post/aak-menu-draft/">
+        </link>
+        <updated>2022-06-22T21:35:05.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Speaking in the scene]]></title>
         <id>https://hillswidth.github.io/mii2.github.io/post/speaking-in-the-scene/</id>
@@ -71,12 +78,5 @@
         <link href="https://hillswidth.github.io/mii2.github.io/post/speaking-in-urinary-sys/">
         </link>
         <updated>2022-01-12T06:57:29.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPEAKING in Cardiovascular sys.]]></title>
-        <id>https://hillswidth.github.io/mii2.github.io/post/Hematology/</id>
-        <link href="https://hillswidth.github.io/mii2.github.io/post/Hematology/">
-        </link>
-        <updated>2022-01-10T18:44:17.000Z</updated>
     </entry>
 </feed>
